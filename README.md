@@ -4,6 +4,9 @@
 
 ### 각 테스트의 내용을 살펴보고 각 항목을 @BeforEach, given절, when절에 배치한다면 어떻게 배치하면 좋을까요??
 
+https://stormy-weeder-7c6.notion.site/1-1deed533be7c80aab1a0fcc546bfbdb9
+
+
 - 테스트 코드의 장점
   - 복잡도가 낮고 테스트 가능한 코드로 구현이 가능하다.
   - 쉽게 발견하기 어려운 엣지 케이스를 놓치지 않게 해준다.
@@ -41,3 +44,5 @@
 ## 미션2
 
 ### 프로젝트의 코드에서 3개의 클래스를 선택하고 테스트가 필요하다고 생각되는 메서드를 선택해 테스트 코드를 작성해봅시다! 
+
+https://stormy-weeder-7c6.notion.site/2-1e3ed533be7c8056bf0edeea82f1cb37
